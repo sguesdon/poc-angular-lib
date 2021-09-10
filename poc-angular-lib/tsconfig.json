@@ -6,6 +6,9 @@
       "@sguesdon/mylib": [
         "dist/sguesdon/mylib/sguesdon-mylib",
         "dist/sguesdon/mylib"
+      ],
+      "@angular/*": [
+        "./node_modules/@angular/*"
       ]
     },
     "baseUrl": "./",
